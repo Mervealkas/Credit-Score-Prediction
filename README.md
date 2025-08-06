@@ -9,7 +9,7 @@ Bu proje, bireylerin kredi skorlarını tahmin etmek için Python ve Scikit-lear
 - ROC eğrisi ve Confusion Matrix ile değerlendirme
 
 ## 📁 Nasıl Çalıştırılır?
-1. `train.csv` dosyasını proje klasörüne ekleyin.
+1. `train.csv` dosyası büyük olduğu için ekleyemedim Kaggle: Credit Score Classification veri seti kullanıldı.
 2. `credit_score.ipynb` dosyasını açın.
 3. Tüm hücreleri çalıştırarak modeli inceleyin.
 
